@@ -1,6 +1,6 @@
 # Rental Tool Application
 
-The Rental Tool Application is a web-based platform that enables users to easily rent a variety of tools and equipment for personal or professional use. This project serves as the capstone project for [Computer Application Template].
+The Rental Tool Application is a web-based platform that enables users to easily rent a variety of tools and equipment for personal or professional use. This project serves as the capstone project for [Computer Application Development].
 
 ## Table of Contents
 
